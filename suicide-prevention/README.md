@@ -68,25 +68,6 @@ suicide.
     corridor and potential FRA regulations around such may also make platform
     screen doors a non starter.
 
-- *Reducing access to the railway more broadly:* This can come in many forms
-  besides platform doors - grade separations, more fencing, ticketed station
-  areas, identifying hot spots like mental hospitals and increasing
-  fencing there.
-
-    Several places on the Peninsula are considering grade separation projects -
-    Palo Alto, Burlingame, others - and reducing pedestrian track access should
-    be a key consideration above and beyond grade separating cars and trains.
-
-- *"Suicide pits" (deep channels between rails):* Some stations in the London
-Underground have a pit three feet deep between the rails at stations. This
-allows people who have second thoughts to duck below the train, and reduce the
-potential for the train to drag people along with it, and thus the risk further
-injury. Strikes at stations with pits are less likely to lead to fatalities than
-stations without them.
-
-    This may be worthwhile to install at new stations such as the Hillsdale
-    station (if it is not already being considered).
-
 - *Media Training:* Between 1984 and 1987 there was dramatic coverage of subway
 suicides in Austria. In 1987 a group developed media guidelines for suicide
 coverage and the suicide rate promptly dropped by 80%. Suicide rates by other
@@ -112,15 +93,41 @@ means also declined suggesting no substitution.
     There are only a few reporters and outlets that cover Caltrain regularly so
     working with them may pay dividends if we are not already doing it.
 
-- *Train design:* Pedestrian fatalities have been on the rise due to [Americans
-buying larger cars with a higher front profile][suvs]. Similarly, the design of
-the train engine may make strikes more or less deadly depending on the design.
-A lower point of impact and a skirt which makes it impossible for a body to go
-underneath the train may reduce the likelihood of a fatal injury.
+Somewhat Effective:
+
+- *Reducing access to the railway more broadly:* This can come in many forms
+  besides platform doors - grade separations, more fencing, ticketed station
+  areas, identifying hot spots like mental hospitals and increasing
+  fencing there.
+
+    Several places on the Peninsula are considering grade separation projects -
+    Palo Alto, Burlingame, others - and reducing pedestrian track access should
+    be a key consideration above and beyond grade separating cars and trains.
+
+- *"Suicide pits" (deep channels between rails):* Some stations in the London
+Underground have a pit three feet deep between the rails at stations. This
+allows people who have second thoughts to duck below the train, and reduce the
+potential for the train to drag people along with it, and thus the risk further
+injury. Strikes at stations with pits are less likely to lead to fatalities than
+stations without them.
+
+    This may be worthwhile to install at new stations such as the Hillsdale
+    station (if it is not already being considered).
+
+Needs More Study:
+
+- *Train design:* Fatal pedestrian/car accidents have been on the rise due to
+[Americans buying larger cars with a higher front profile][suvs]. Similarly, the
+design of the train engine may make strikes more or less deadly depending on the
+design. A lower point of impact and a skirt which makes it impossible for a body
+to go underneath the train may reduce the likelihood of a fatal injury.
 
     An airbag that was deployed concurrently with the emergency brake could also
     reduce the impact of a collision. There is not enough research into the
-    effect of this policy.
+    effect of these changes, though they may be cheap to implement relative to
+    grade separations or screen doors.
+
+Ineffective:
 
 - *Blue lights:* A study in Japan got attention for saying that blue LED lights
 at station platforms led to a lower number of suicide attempts. A later study
